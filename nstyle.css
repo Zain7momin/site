@@ -1,0 +1,12 @@
+    body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.hero {
+  height: 90vh;
+  background: url('https://images.unsplash.com/photo-1504384308090-c894fdcc538d') no-repeat center center/cover;
+}
+
+.contact-section {
+  background-color: #212529;
+}
